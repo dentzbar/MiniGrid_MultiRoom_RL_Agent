@@ -1,0 +1,12 @@
+gymnasium>=0.29.1
+minigrid>=2.3.0
+numpy>=1.24.0
+matplotlib>=3.7.1
+torch>=2.0.0
+imageio==2.4.0
+pyvirtualdisplay>=3.0
+piglet>=1.0.0
+tqdm>=4.65.0
+h5py>=3.8.0
+opencv-python>=4.8.0
+IPython>=8.12.0
