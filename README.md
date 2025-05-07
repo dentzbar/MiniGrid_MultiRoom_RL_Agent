@@ -2,9 +2,6 @@
 
 This project implements and compares two reinforcement learning approaches (PPO and Dueling DQN) for training an agent to navigate through the MultiRoom environment from MiniGrid.
 
-<!-- ![MiniGrid Logo](https://raw.githubusercontent.com/Farama-Foundation/Minigrid/master/minigrid-text.png) -->
-<img src="https://raw.githubusercontent.com/Farama-Foundation/Minigrid/master/minigrid-text.png" width="400" height="auto">
-
 
 
 ## 🌍 Environment Overview
@@ -38,12 +35,15 @@ MiniGrid-MultiRoom is a challenging environment where an agent must navigate thr
 - Epsilon-greedy exploration
 
 ## 📋 Requirements
-python
-gymnasium
-minigrid
-torch
-numpy
+python,
+gymnasium,
+minigrid,
+torch,
+numpy,
 matplotlib
+
+
+<img src="https://raw.githubusercontent.com/Farama-Foundation/Minigrid/master/minigrid-text.png" width="150" height="auto">
 
 
 ## 🚀 Getting Started
