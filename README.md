@@ -18,9 +18,7 @@ MiniGrid-MultiRoom is a challenging environment where an agent must navigate thr
 
 <div style="display: flex; justify-content: space-around;">
     <div style="text-align: center;">
-        <video width="500" controls>
-            <source src="assets/6_large_rooms_success_video.mp4" type="video/mp4">
-        </video>
+        <img src="assets/6_large_rooms_success_video.gif" width="500" alt="Successfully navigating through 6 large rooms">
         <p>Successfully navigating through 6 large rooms</p>
     </div>
 </div>
