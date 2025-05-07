@@ -2,7 +2,12 @@
 
 This project implements and compares two reinforcement learning approaches (PPO and Dueling DQN) for training an agent to navigate through the MultiRoom environment from MiniGrid.
 
-
+<div style="display: flex; justify-content: space-around;">
+    <div style="text-align: center;">
+        <img src="assets/6_large_rooms_success_video.gif" width="500" alt="Successfully navigating through 6 large rooms">
+        <p>Successfully navigating through 6 large rooms</p>
+    </div>
+</div>
 
 ## 🌍 Environment Overview
 
@@ -13,12 +18,7 @@ MiniGrid-MultiRoom is a challenging environment where an agent must navigate thr
 - Goal-oriented navigation tasks
 - Varying levels of complexity based on room count and size
 
-<div style="display: flex; justify-content: space-around;">
-    <div style="text-align: center;">
-        <img src="assets/6_large_rooms_success_video.gif" width="500" alt="Successfully navigating through 6 large rooms">
-        <p>Successfully navigating through 6 large rooms</p>
-    </div>
-</div>
+
 
 ## 🛠️ Implemented Methods
 
